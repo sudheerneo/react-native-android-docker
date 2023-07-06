@@ -1,2 +1,2 @@
 # react-native-android-docker
-Its a androoid developement  with ubuntu and all android studio tools with react native docker file
+This image provides a base Android development environment for React Native and may be used to run tests and other stuff.
